@@ -1,4 +1,4 @@
 require 'sinatra'
 get '/' do
-  "Hello World! it's new"
+  "Hello World! it's new100"
 end
