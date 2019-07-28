@@ -1,4 +1,4 @@
 require 'sinatra'
 get '/' do
-  "Hello World! it's  bagaura"
+  "Hello World! "
 end
